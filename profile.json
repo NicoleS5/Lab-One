@@ -1,0 +1,17 @@
+{
+  "firstName" : "Emily",
+  "lastName" : "Tretson",
+  "displayHandle" : "emtret",
+}
+
+{
+"posts":[ "Having a snack", "Feeling under the weather", "Going for a run" ]
+}
+
+{
+"age":20
+}
+
+{
+"active":true
+}
