@@ -1,0 +1,61 @@
+{
+	"name": [
+		"Alex",
+		"Jon",
+		"Abby",
+		"Luke",
+		"Jake",
+		"Lacy"
+	],
+	"occupation": [
+		"chef",
+		"dentist",
+		"banker",
+		"gardener",
+		"cleaner",
+		"vet"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #storm# to ruin the crops. The #big# #storm# was #promised# to #passover# #quickly#."
+		"https://www.#url#.com"
+	],
+	"always": [
+		"never",
+		"rarely",
+		"constantly",
+		"usually"
+	],
+	"expecting": [
+		"expecting",
+		"anticipating",
+		"awaiting",
+		"counting on"
+	],
+	"promised": [
+		"guarenteed",
+		"ensured"
+	],
+	"passover": [
+		"recover"
+	],
+	"quickly": [
+		"slowly",
+		"with ease",
+		"tommorrow"
+	],
+	"storm": [
+		"storm",
+		"freeze",
+		"new fertilizer",
+		"tornado",
+	],
+	"big": [
+		"small",
+		"dangerous",
+	],
+	"url": [
+		"latesttoday",
+		"localreporter",
+		"updatetoday"
+	]
+}
